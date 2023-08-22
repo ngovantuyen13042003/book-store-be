@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-storeconfig/9.0.65/tomcat-storeconfig-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-util-scan/9.0.65/tomcat-util-scan-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-jasper-el/9.0.65/tomcat-jasper-el-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-dbcp/9.0.65/tomcat-dbcp-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-i18n-de/9.0.65/tomcat-i18n-de-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-i18n-ja/9.0.65/tomcat-i18n-ja-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-i18n-pt-BR/9.0.65/tomcat-i18n-pt-BR-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/jsp-api.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-ssi/9.0.65/tomcat-ssi-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/ecj-4.20.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/net/bytebuddy/byte-buddy/1.12.18/byte-buddy-1.12.18.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-coyote/9.0.65/tomcat-coyote-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-i18n-fr/9.0.65/tomcat-i18n-fr-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-i18n-cs.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-catalina-ant/9.0.65/tomcat-catalina-ant-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-jaspic-api/9.0.65/tomcat-jaspic-api-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/jvnet/staxex/stax-ex/1.8/stax-ex-1.8.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-el-api/9.0.65/tomcat-el-api-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-jdbc/9.0.65/tomcat-jdbc-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/catalina-ha.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-i18n-ru/9.0.65/tomcat-i18n-ru-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/servlet-api.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/javax/servlet/jstl/1.2/jstl-1.2.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0-rt.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c-1_0.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/c.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0-rt.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt-1_0.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fmt.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/fn.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/permittedtaglibs.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/scriptfree.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0-rt.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql-1_0.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/sql.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0-rt.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x-1_0.tld" project="book-store-be"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jstl-1.2.jar/meta-inf/x.tld" project="book-store-be"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/hibernate/hibernate-core/5.6.15.Final/hibernate-core-5.6.15.Final.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-api.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/glassfish/jaxb/jaxb-runtime/2.3.1/jaxb-runtime-2.3.1.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/com/sun/istack/istack-commons-runtime/3.0.7/istack-commons-runtime-3.0.7.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/catalina-tribes.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/el-api.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-i18n-ko.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/websocket-api.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-util.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/catalina-ssi.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/glassfish/jaxb/txw2/2.3.1/txw2-2.3.1.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-catalina/9.0.65/tomcat-catalina-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.1.1.Final/jboss-transaction-api_1.2_spec-1.1.1.Final.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-websocket.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-coyote.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-util/9.0.65/tomcat-util-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-jasper/9.0.65/tomcat-jasper-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/jaspic-api.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/eclipse/jdt/ecj/3.26.0/ecj-3.26.0.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/jasper-el.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/javax/xml/bind/jaxb-api/2.3.1/jaxb-api-2.3.1.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-servlet-api/9.0.65/tomcat-servlet-api-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/catalina-ant.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-i18n-ko/9.0.65/tomcat-i18n-ko-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-jni/9.0.65/tomcat-jni-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/javax/mail/mail/1.4.7/mail-1.4.7.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/javax/servlet/jsp/javax.servlet.jsp-api/2.3.2-b01/javax.servlet.jsp-api-2.3.2-b01.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-i18n-cs/9.0.65/tomcat-i18n-cs-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-i18n-ru.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/jasper.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-juli/9.0.65/tomcat-juli-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-annotations-api/9.0.65/tomcat-annotations-api-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-websocket-api/9.0.65/tomcat-websocket-api-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/com/sun/xml/fastinfoset/FastInfoset/1.2.15/FastInfoset-1.2.15.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-catalina-ha/9.0.65/tomcat-catalina-ha-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/annotations-api.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-util-scan.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/hibernate/common/hibernate-commons-annotations/5.1.2.Final/hibernate-commons-annotations-5.1.2.Final.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-websocket/9.0.65/tomcat-websocket-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-jni.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-i18n-zh-CN/9.0.65/tomcat-i18n-zh-CN-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-tribes/9.0.65/tomcat-tribes-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-i18n-es/9.0.65/tomcat-i18n-es-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/tomcat-jdbc.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-api/9.0.65/tomcat-api-9.0.65.jar"/>
+  <path value="C:/Users/ngova/.m2/repository/org/apache/tomcat/tomcat-jsp-api/9.0.65/tomcat-jsp-api-9.0.65.jar"/>
+  <path value="D:/WorkSpace_Web/apache-tomcat-9.0.65/lib/catalina.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jsf-verification"/>
+  <core validator-id="jboss.cdi.core"/>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>

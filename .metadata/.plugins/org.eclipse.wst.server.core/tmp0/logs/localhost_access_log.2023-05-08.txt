@@ -1,0 +1,15 @@
+127.0.0.1 - - [08/May/2023:16:19:29 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:19:30 +0700] "GET /book-store-be/api/v1/cart HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:19:31 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:20:59 +0700] "GET /book-store-be/api/v1/books/pagination?page=1&size=8 HTTP/1.1" 200 2302396
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:01 +0700] "POST /book-store-be/api/v1/login HTTP/1.1" 200 152
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:01 +0700] "POST /book-store-be/api/v1/cart-get HTTP/1.1" 200 946284
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:31 +0700] "POST /book-store-be/api/v1/cart-update HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:31 +0700] "POST /book-store-be/api/v1/cart-update HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:33 +0700] "POST /book-store-be/api/v1/cart-update HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:33 +0700] "POST /book-store-be/api/v1/cart-update HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:33 +0700] "POST /book-store-be/api/v1/cart-update HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:33 +0700] "POST /book-store-be/api/v1/cart-update HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:33 +0700] "POST /book-store-be/api/v1/cart-update HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:33 +0700] "POST /book-store-be/api/v1/cart-update HTTP/1.1" 200 119
+0:0:0:0:0:0:0:1 - - [08/May/2023:16:22:34 +0700] "POST /book-store-be/api/v1/cart-update HTTP/1.1" 200 119

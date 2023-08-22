@@ -1,0 +1,88 @@
+package controller.authentication;
+
+import java.io.IOException;
+
+import javax.mail.MessagingException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import com.google.gson.Gson;
+
+import dao.CustomerDAO;
+import model.Customer;
+import util.EncodePassword;
+import util.SendEmail;
+import util.VerifyCode;
+
+@WebServlet("/api/v1/vertify-info")
+public class VertifyInfo extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	public VertifyInfo() {
+		super();
+	}
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		response.getWriter().append("Served at: ").append(request.getContextPath());
+	}
+
+	
+	
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		HttpSession session = request.getSession();
+		
+		String vertifyCode = (String) session.getAttribute("vertifyCode");
+		
+		String code  = request.getParameter("vertidy-code");
+		if(code.equals(vertifyCode)) {
+			
+			Customer customerTemp = (Customer) session.getAttribute("customer");
+			
+			String password = customerTemp.getPassword();
+			String username = customerTemp.getEmail();
+			String email = customerTemp.getEmail();
+			
+			System.out.println(customerTemp.getEmail() + " " + customerTemp.getPassword() + " " + customerTemp.getUsername()+ " " + vertifyCode);
+
+			
+
+			// encode password
+//			password = EncodePassword.encodePassword(password);
+//			
+//			Customer customer = new Customer();
+//			customer.setUsername(username);
+//			customer.setPassword(password);
+//			customer.setEmail(email);
+//			
+//			// insert into database
+//			CustomerDAO cDAO = new CustomerDAO();
+//			cDAO.insert(customer);// insert xuống database +  save info into customer
+//			
+//			// chuyển dữ liệu customer  thành json
+//			Gson gson = new Gson();
+//			String customerJson = gson.toJson(customer);
+//			response.getWriter().write(customerJson);
+			
+		}else {
+			response.getWriter().write("Mã xác thực không chính xác!");
+			
+		}
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+	
+}

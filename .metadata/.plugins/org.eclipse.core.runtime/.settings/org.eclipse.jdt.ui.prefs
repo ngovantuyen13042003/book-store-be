@@ -1,0 +1,11 @@
+breadcrumb.org.eclipse.jdt.ui.JavaPerspective=true
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="dao.DAOInterface"><rhs name\="dao.CustomerDAO"/><rhs name\="dao.ImageDAO"/><rhs name\="dao.CartDAO"/><rhs name\="dao.BookDAO"/><rhs name\="dao.CatogoryDAO"/></lhs><lhs name\="dao.CustomerDAO"><rhs name\="dao.CustomerDAO"/></lhs><lhs name\="model.Customer"><rhs name\="model.Customer"/></lhs><lhs name\="util.VerifyCode"><rhs name\="util.VerifyCode"/></lhs><lhs name\="util.EncodePassword"><rhs name\="util.EncodePassword"/></lhs><lhs name\="java.lang.Enum"><rhs name\="javax.persistence.CascadeType"/><rhs name\="javax.persistence.GenerationType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="javax.persistence.CascadeType"/><rhs name\="javax.persistence.GenerationType"/><rhs name\="java.lang.Double"/></lhs><lhs name\="model.Category"><rhs name\="model.Category"/></lhs><lhs name\="dao.CatogoryDAO"><rhs name\="dao.CatogoryDAO"/></lhs><lhs name\="model.Image"><rhs name\="model.Image"/></lhs><lhs name\="model.Book"><rhs name\="model.Book"/></lhs><lhs name\="dao.BookDAO"><rhs name\="dao.BookDAO"/></lhs><lhs name\="dao.ImageDAO"><rhs name\="dao.ImageDAO"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/><rhs name\="com.google.gson.JsonArray"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.google.gson.JsonElement"><rhs name\="com.google.gson.JsonArray"/><rhs name\="com.google.gson.JsonObject"/></lhs><lhs name\="java.lang.constant.ConstantDesc"><rhs name\="java.lang.Double"/></lhs><lhs name\="java.lang.Number"><rhs name\="java.lang.Double"/></lhs><lhs name\="model.Cart"><rhs name\="model.Cart"/></lhs><lhs name\="dao.CartDAO"><rhs name\="dao.CartDAO"/></lhs></history>
+content_assist_number_of_computers=12
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=1
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

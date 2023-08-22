@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1138835396.index
+\EpKieu_JSP\src\main\java
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\540259891.index
+\ChuyenTiepThongTinVaBatLoi\src\main\java
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1379061188.index
+\BatLoiTrang\src\main\java
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2043093577.index
+\Exercise1JSP\src\main\java
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4288125055.index
+\BatLoiTrang\src\main\java
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\729573613.index
+\HelloWord\src\main\java
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3974439420.index
+\exerciseSevlet\src\main\java
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\880599852.index
+\RegularExpression\src\main\java
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1368794277.index
+\BookStores\src\main\java
+D:\WorkSpace_project_jvnc\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2619002248.index
+\BookStore - Copy\src\main\java

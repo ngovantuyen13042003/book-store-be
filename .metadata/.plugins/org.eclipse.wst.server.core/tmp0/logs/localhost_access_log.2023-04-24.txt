@@ -1,0 +1,15 @@
+127.0.0.1 - - [24/Apr/2023:14:04:08 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:14:04:09 +0700] "GET /book-store-be/api/v1/verify-info HTTP/1.1" 200 25
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:14:07:21 +0700] "GET /book-store-be/api/v1/register HTTP/1.1" 200 -
+127.0.0.1 - - [24/Apr/2023:23:55:52 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:55:53 +0700] "GET /book-store-be/test/api/post-image HTTP/1.1" 500 1485
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:56:24 +0700] "POST /book-store-be/test/api/post-image HTTP/1.1" 500 1557
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:56:45 +0700] "POST /book-store-be/test/api/post-image HTTP/1.1" 500 1557
+127.0.0.1 - - [24/Apr/2023:23:57:47 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:57:47 +0700] "GET /book-store-be/test/api/post-image HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:57:53 +0700] "POST /book-store-be/test/api/post-image HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:58:45 +0700] "POST /book-store-be/test/api/post-image HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:58:51 +0700] "POST /book-store-be/test/api/post-image HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:59:17 +0700] "POST /book-store-be/test/api/post-image?path_mage=https://www.google.com/url?sa=i%26url=https%3A%2F%2Flaodong.vn%2Fgiai-tri%2Frose-blackpink-vuong-on-ao-lien-quan-den-nghi-van-chat-cam-1179078.ldo%26psig=AOvVaw1On7HDDj4HLFxcSV2ZF0R0%26ust=1682417595634000%26source=images%26cd=vfe%26ved=0CBEQjRxqFwoTCJCO64ukwv4CFQAAAAAdAAAAABAI HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:59:31 +0700] "POST /book-store-be/test/api/post-image?path_mage=https://www.google.com/url?sa=i%26url=https%3A%2F%2Flaodong.vn%2Fgiai-tri%2Frose-blackpink-vuong-on-ao-lien-quan-den-nghi-van-chat-cam-1179078.ldo%26psig=AOvVaw1On7HDDj4HLFxcSV2ZF0R0%26ust=1682417595634000%26source=images%26cd=vfe%26ved=0CBEQjRxqFwoTCJCO64ukwv4CFQAAAAAdAAAAABAI HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2023:23:59:41 +0700] "POST /book-store-be/test/api/post-image?path_mage=https://www.google.com/url?sa=i%26url=https%3A%2F%2Flaodong.vn%2Fgiai-tri%2Frose-blackpink-vuong-on-ao-lien-quan-den-nghi-van-chat-cam-1179078.ldo%26psig=AOvVaw1On7HDDj4HLFxcSV2ZF0R0%26ust=1682417595634000%26source=images%26cd=vfe%26ved=0CBEQjRxqFwoTCJCO64ukwv4CFQAAAAAdAAAAABAI HTTP/1.1" 200 256

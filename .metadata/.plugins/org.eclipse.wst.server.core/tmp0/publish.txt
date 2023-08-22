@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Fri May 12 07:16:51 ICT 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ngova\\.m2\\repository\\org\\apache\\tomcat\\tomcat-websocket\\9.0.65\\tomcat-websocket-9.0.65.jar=WEB-INF/lib/tomcat-websocket-9.0.65.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ngova\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper-el\\9.0.65\\tomcat-jasper-el-9.0.65.jar=WEB-INF/lib/tomcat-jasper-el-9.0.65.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ngova\\.m2\\repository\\org\\apache\\tomcat\\tomcat-jasper\\9.0.65\\tomcat-jasper-9.0.65.jar=WEB-INF/lib/tomcat-jasper-9.0.65.jar
